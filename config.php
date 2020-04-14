@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://localhost/moodle';
-$CFG->dataroot  = '/opt/lampp/moodledata';
+$CFG->dataroot  = '/opt/lampp/htdocs/moodle/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
