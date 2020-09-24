@@ -19,8 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://localhost/moodle';
-// $CFG->dataroot  = '/opt/lampp/htdocs/moodle/moodledata';   //Ravi Ubuntu Location
-$CFG->dataroot  = 'C:\Users\ujwal\Desktop\Xampp\htdocs\moodle\moodledata';   //Ujwal Windows Data location
+$CFG->dataroot  = '/opt/lampp/htdocs/moodle/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
